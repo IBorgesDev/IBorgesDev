@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Icaro Borges</h1>
+<h1 align="center">Hi 👋, I'm Ícaro Borges</h1>
 <h3 align="center">Software Engineer in GNA Educational</h3>
 
 - 🔭 I’m currently working on **Bokke**
