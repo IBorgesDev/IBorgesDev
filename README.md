@@ -6,7 +6,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IBorgesDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=1&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=IBorgesDev&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IBorgesDev&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="280" alt="activity-graph graph"  />
 </div>
 
